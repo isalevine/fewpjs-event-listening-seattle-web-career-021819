@@ -37,10 +37,14 @@ main.addEventListener('click', function(event) {
 });
 ```
 
+Take this code and paste it into the `index.js` file's `addingEventListener`
+function and make it work for input.
+
+
 When you click inside of `input#input`, **_now_**, you will get an alert box.
 
-Take this code and paste it into the `index.js` file's `addingEventListener`
-function.
+Ooops, no alert box... Did you call the function?
+
 
 Let's review the parts of this code:
 
